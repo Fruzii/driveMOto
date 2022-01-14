@@ -1,4 +1,4 @@
 # Adaptive web pages
-[Main page](https://github.com/facebook/create-react-app)
-[Catalog page](https://github.com/facebook/create-react-app)
-[Product page](https://github.com/facebook/create-react-app)
+[Main page](https://fruzii.github.io/driveMoto/index.html).
+[Catalog page](https://fruzii.github.io/driveMoto/catalog.html).
+[Product page](https://fruzii.github.io/driveMoto/productPage.html).
